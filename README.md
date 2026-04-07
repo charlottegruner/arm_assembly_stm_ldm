@@ -1,0 +1,1 @@
+motivate.s  contains code that should compile and run.  This code copies the contents from memory location a to memory location da, b to db, c to dc, then marshals the arguments to print out the contents of memory locations da, db, dc.  There is a lot of repeated code!  
